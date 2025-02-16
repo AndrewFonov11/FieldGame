@@ -1,0 +1,7 @@
+This is the GitHub version of the Field game.
+
+License: GNU GPL v3.0.
+
+This project was created by A. Fonov and inspired by the YouTube video tutorial "Begin End".
+
+Enjoy! :)
