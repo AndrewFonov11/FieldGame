@@ -1,4 +1,4 @@
-This is the GitHub version of the Field game.
+This is the GitHub versions of the Field game.
 
 License: GNU GPL v3.0.
 
